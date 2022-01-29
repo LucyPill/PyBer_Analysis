@@ -14,4 +14,4 @@ To aim ourselves on this analysis, we will write python script using pandas libr
 
 While urban cities have the highest number of total rides, drivers, and fares, when it comes to average fare per ride and average fare per driver it has the lowest. This makes sense since urban cities are more populated than rural and suburban, and more people use ride sharing services than in the rural and suburban cities. There are more drivers in the suburban cities making it more competitive and more favorable for lower prices. Where the demand of drivers is low like rural cities the fare per ride will increase and this is exactly what we see in the DataFrame below. 
 
-![PyBer_summary_df.png]
+![PyBer_summary_df.png](https://github.com/LucyPill/PyBer_Analysis/blob/main/Images/PyBer_summary_df.png)
